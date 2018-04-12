@@ -5,3 +5,4 @@ Althogh magma is not made for new linux users, but if you find debian hard to us
   NON FREE DRIVERS OUT OF THE BOX
   THE LATEST SOFTWARE
   AND OTHER MISC. STUFF
+magma will have all this stuff
