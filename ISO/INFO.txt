@@ -1,0 +1,3 @@
+1: https://wiki.debian.org/DebianInstaller
+2: https://wiki.debian.org/DebianInstaller/Preseed
+3: https://wiki.debian.org/DebianInstaller/Preseed/EditIso
