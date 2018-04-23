@@ -1,4 +1,4 @@
 echo "run as root to run";sleep 5
-apt install chromium
+apt install chromium xorg
 echo "if packages don't work, run apt -f install"
 echo "if everything works YOU ARE DONE!!"
